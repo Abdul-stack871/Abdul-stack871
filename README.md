@@ -220,6 +220,18 @@ I believe in learning by building, experimenting, and continuously improving.
   </a>
 </p>
 
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Abdul-stack871/Abdul-stack871/output/snake-purple.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+
+
 ---
 
 # 🚀 Featured Projects
