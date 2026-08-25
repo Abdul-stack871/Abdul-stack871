@@ -1,13 +1,10 @@
-<div align="center">
-
-# 👋 Hello, I'm Abdul Rahman
-
-### Web Developer | MERN Stack Developer
-### AI & Data Science | Blockchain Explorer
-
-**Build • Explore • Innovate**
-
-</div>
+<p align="center">
+  <img
+    src="./assets/profile-banner.svg"
+    width="100%"
+    alt="Abdul Rahman Profile Banner"
+  />
+</p>
 
 ---
 
