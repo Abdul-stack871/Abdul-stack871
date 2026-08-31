@@ -243,7 +243,7 @@ Dr. NGP Institute of Technology, Coimbatore
 </p>
 
 
-### 💻 LeetCode Profile
+
 
 <p align="center">
   <a href="https://leetcode.com/u/AbdulStack/">
