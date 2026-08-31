@@ -10,27 +10,15 @@
 
 ## 👨‍💻 About Me
 
-I'm Abdul Rahman, a B.Tech Artificial Intelligence and Data Science student
-interested in Web Development, MERN Stack, Artificial Intelligence,
-Data Science, and emerging technologies.
+I'm Abdul Rahman, a B.Tech AI & Data Science student passionate about
+building practical web applications and exploring AI-driven solutions.
 
-I chose Artificial Intelligence and Data Science because I was curious
-about how AI works and how data can be used to solve real-world problems.
-I enjoy learning how technology can be applied to practical challenges
-and continuously exploring new tools, software, and technologies.
+I enjoy working with MERN Stack, Artificial Intelligence, Data Science,
+and emerging technologies — learning by building, experimenting, and solving
+real-world problems.
 
-I'm also interested in Web Development because I enjoy creating
-applications that can be useful in real-world situations. I like
-understanding how frontend and backend technologies work together to
-build complete applications.
-
-I am currently exploring Blockchain Technology, its fundamentals,
-security concepts, and practical applications, while also experimenting
-with emerging AI models and tools.
-
-My goal is to continuously learn, build meaningful projects, improve my
-problem-solving skills, and grow as a software developer who can
-contribute effectively to a team.
+Currently exploring Blockchain fundamentals and emerging AI models while
+continuously improving my development and problem-solving skills.
 
 ---
 
