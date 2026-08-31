@@ -242,16 +242,6 @@ Dr. NGP Institute of Technology, Coimbatore
   />
 </p>
 
-
-
-
-<p align="center">
-  <a href="https://leetcode.com/u/AbdulStack/">
-    <img
-      src="./assets/leetcode-dashboard.svg"
-      width="100%"
-      alt="AbdulStack LeetCode Dashboard"
-    />
   </a>
 </p>
 
