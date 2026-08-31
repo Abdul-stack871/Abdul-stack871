@@ -30,141 +30,154 @@ Dr. NGP Institute of Technology, Coimbatore
 
 ---
 
-## 🎯 Currently Exploring
+<details>
+<summary><b>🎯 Currently Exploring</b></summary>
 
-- Strengthening my problem-solving, programming, and software development skills.
-- Building practical, real-world solutions using the MERN Stack.
-- Improving my understanding of frontend and backend development and how they work together.
-- Exploring Blockchain Technology, including its concepts, security, and practical applications.
-- Exploring emerging AI models, AI tools, and new technologies to understand their real-world use cases.
-- Continuously learning and experimenting with new software, tools, and technologies.
+<br>
 
----
+- Strengthening my programming, problem-solving, and software development skills.
+- Building practical solutions using the MERN Stack.
+- Exploring Blockchain fundamentals and practical applications.
+- Exploring emerging AI models, AI tools, and new technologies.
+- Improving my understanding of modern software development.
 
-## 🚀 What I'm Building
+</details>
 
-- Developing real-world web applications using the MERN Stack.
-- Working on projects that focus on solving practical problems through technology.
-- Experimenting with AI models and tools to explore useful AI-powered solutions.
-- Exploring blockchain concepts and their potential applications in real-world systems.
-- Combining my knowledge of AI, web development, and emerging technologies to build meaningful projects.
+<details>
+<summary><b>🚀 What I'm Building</b></summary>
 
----
+<br>
 
-## 💡 My Approach
+- Real-world web applications using the MERN Stack.
+- AI-powered solutions for practical problems.
+- Projects combining AI, web development, and emerging technologies.
+- Applications focused on useful real-world solutions.
 
-I believe in learning by building, experimenting, and continuously improving.
+</details>
 
-- Learn the fundamentals before moving to advanced concepts.
-- Build projects to turn knowledge into practical experience.
-- Explore new technologies and understand their real-world applications.
-- Focus on writing clean, understandable, and maintainable code.
-- Learn from challenges, mistakes, and feedback.
-- Continuously improve both technical and problem-solving skills.
+<details>
+<summary><b>💡 My Approach</b></summary>
+
+<br>
+
+- Learn by building.
+- Understand the fundamentals.
+- Experiment with new technologies.
+- Solve practical problems.
+- Learn from challenges and improve continuously.
+
+</details>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## 🤖 AI & Data Science
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Generative AI
-- Predictive Modeling
-- Data Analysis
-- Data Visualization
-
-### Data Science Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Libraries & Tools:** NumPy • Pandas • Scikit-learn
-
-**Generative AI:** Project Experience
-
-## ⛓️ Blockchain
-
-- Blockchain Fundamentals
-- Block & Blockchain Structure
-- Hashing & SHA-256
-- Decentralization
-- Distributed Ledger
-- Consensus Mechanisms
-  - Proof of Work (PoW)
-  - Proof of Stake (PoS)
-- Bitcoin & Cryptocurrency
-- Smart Contracts
-- Ethereum
-- Blockchain Applications
-- Public Blockchain
-- Private Blockchain
-- Consortium Blockchain
-- Hybrid Blockchain
-
-## ☁️ Cloud & Platforms
-
-- AWS — Fundamentals
-- Microsoft Azure — Fundamentals
-
-## 🛠️ Development Tools
+### 🧰 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
-## 🤖 AI-Assisted Development
+### 🤖 AI-Assisted Development
 
-**Claude • Lovable • Emergent**
+`Claude` • `Lovable` • `Emergent`
+
+<details>
+<summary><b>🤖 AI & Data Science</b></summary>
+
+<br>
+
+**Core Areas**
+
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning`  
+`NLP` • `Computer Vision` • `Generative AI` • `Predictive Analytics`
+
+**Tools & Libraries**
+
+`Python` • `NumPy` • `Pandas` • `Scikit-learn`
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain</b></summary>
+
+<br>
+
+**Fundamentals**
+
+`Blockchain` • `Hashing` • `Distributed Ledger` • `Decentralization`
+
+**Consensus**
+
+`Proof of Work (PoW)` • `Proof of Stake (PoS)`
+
+**Concepts**
+
+`Smart Contracts` • `Ethereum` • `Bitcoin` • `Public Blockchain`  
+`Private Blockchain` • `Consortium Blockchain` • `Hybrid Blockchain`
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud Fundamentals</b></summary>
+
+<br>
+
+`AWS` • `Microsoft Azure`
+
+</details>
 
 ---
 
 # 🏆 Achievements & Certifications
 
-## 🏅 Achievements
+<details>
+<summary><b>🏅 Achievements</b></summary>
+
+<br>
 
 - **VIHANSA 2K26** — 24-Hour National Level Hackathon
   - Sri Ramakrishna Institute of Technology, Coimbatore
-  - Problem: Social Media Sentiment Analysis
-  - Classification: Positive, Negative, Neutral
+  - Social Media Sentiment Analysis
+  - Positive / Negative / Neutral Classification
 
-- Participated in **TECHNOVA '26** National-Level Hackathon
+- **TECHNOVA '26** — National-Level Hackathon Participant
 
-- Participated in **VIHANSA 2K26** National-Level Hackathon
+- **VIHANSA 2K26** — National-Level Hackathon Participant
 
-- Presented research paper at **ICRIT '26**
+- **ICRIT '26** — Research Paper Presentation
   - *Integrated Cooperative Farming System with Farmer Connectivity and Crop Recommendation*
 
-## 📜 Certifications
+</details>
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+
+<br>
 
 - **NPTEL Elite — Human Computer Interaction**
   - IIIT Delhi • **86%** • 2026
@@ -178,22 +191,36 @@ I believe in learning by building, experimenting, and continuously improving.
 - **Foundations of Cyber Security: Threats, Tools & Practical Defense**
   - ISEA Project Phase-III
 
-## 💼 Internship
+</details>
+
+<details>
+<summary><b>💼 Internship Experience</b></summary>
+
+<br>
 
 **Web Development Intern**  
 **ATS — Aalan Tech Soft, Software Development & Trainings**
 
 **09 June 2025 – 25 June 2025 | 17 Days**
 
+</details>
+
 ---
 
-# 📊 GitHub Statistics
+# 📊 Developer Dashboard
+
+<p align="center">
+  <i>A snapshot of my coding journey across GitHub & LeetCode</i>
+</p>
+
+### 🐙 GitHub Overview
 
 <p align="center">
   <a href="https://github.com/Abdul-stack871">
     <img
       height="180"
       src="https://github-stats-extended.vercel.app/api?username=Abdul-stack871&show_icons=true&theme=transparent&hide_border=true"
+      alt="GitHub Statistics"
     />
   </a>
 
@@ -201,12 +228,26 @@ I believe in learning by building, experimenting, and continuously improving.
     <img
       height="180"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdul-stack871&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+      alt="Most Used Languages"
     />
   </a>
 </p>
 
+### 💻 LeetCode Profile
 
-### 🐍 Contribution Snake
+<p align="center">
+  <a href="https://leetcode.com/u/AbdulStack/">
+    <img
+      width="500"
+      src="https://leetcard.jacoblin.cool/AbdulStack?theme=dark&ext=activity&animation=true&border=0&radius=18&colors=07131a,0b1820,e6f7ff,ffffff,00d4a8,00b8ff,ffd166,ff5f56"
+      alt="AbdulStack LeetCode Stats"
+    />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img
@@ -215,8 +256,6 @@ I believe in learning by building, experimenting, and continuously improving.
   />
 </p>
 
-
-
 ---
 
 # 🚀 Featured Projects
@@ -224,13 +263,15 @@ I believe in learning by building, experimenting, and continuously improving.
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 NarratoVision
 
-A Generative AI application that understands emotions from text and generates related visual content.
+A Generative AI application that analyzes emotions from text and generates related visual content.
 
 **Python • Streamlit • NLP • Generative AI**
+
+<br>
 
 <a href="https://github.com/Abdul-stack871/NarratoVission-AI">
   🔗 View Project
@@ -238,13 +279,15 @@ A Generative AI application that understands emotions from text and generates re
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏠 StayMate AI
 
 An AI-powered platform designed to help students and working people find affordable accommodation and suitable roommates.
 
 **Web Development • AI**
+
+<br>
 
 <a href="https://github.com/Abdul-stack871/Stay-Mate">
   🔗 View Project
@@ -262,19 +305,27 @@ An AI-powered platform designed to help students and working people find afforda
 <p align="center">
 
 <a href="https://www.linkedin.com/in/abdul-rahuman281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 
 <a href="https://leetcode.com/u/AbdulStack/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  <img
+    src="https://img.shields.io/badge/LeetCode-AbdulStack-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+  />
 </a>
 
 <a href="mailto:abdulrahumanrock15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 
 <a href="https://in.pinterest.com/abdulrahumanrock15/">
-  <img src="https://img.shields.io/badge/Pinterest-Profile-red?style=for-the-badge&logo=pinterest" />
+  <img
+    src="https://img.shields.io/badge/Pinterest-Profile-E60023?style=for-the-badge&logo=pinterest&logoColor=white"
+  />
 </a>
 
 </p>
@@ -283,10 +334,8 @@ An AI-powered platform designed to help students and working people find afforda
 
 <div align="center">
 
-<i>Building • Learning • Exploring • Improving</i>
+### Code. Learn. Improve. Repeat. 🚀
 
-<br><br>
-
-Thanks for visiting my profile! 🚀
+<i>Building practical solutions and exploring what's next.</i>
 
 </div>
