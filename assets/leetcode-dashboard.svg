@@ -1,1 +1,699 @@
+<svg width="1200" height="920" viewBox="0 0 1200 920" fill="none" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="920">
+    <stop stop-color="#030912"/>
+    <stop offset="0.5" stop-color="#06121C"/>
+    <stop offset="1" stop-color="#02070D"/>
+  </linearGradient>
+
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#00E5C3"/>
+    <stop offset="1" stop-color="#00A8FF"/>
+  </linearGradient>
+
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#00D084"/>
+    <stop offset="1" stop-color="#9BE15D"/>
+  </linearGradient>
+
+  <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#FFD166"/>
+    <stop offset="1" stop-color="#FFB000"/>
+  </linearGradient>
+
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#A855F7"/>
+    <stop offset="1" stop-color="#7C5CFC"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="920" rx="22" fill="url(#bg)"/>
+
+<!-- ================= HEADER ================= -->
+
+<text x="45" y="58"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="32"
+      font-weight="700">
+  LeetCode
+</text>
+
+<text x="215" y="58"
+      fill="#00D9C0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="32"
+      font-weight="700">
+  Profile
+</text>
+
+<text x="45" y="88"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16">
+  Problem solving. Consistency. Growth.
+</text>
+
+<!-- Header line -->
+<rect x="45" y="108" width="1110" height="1" fill="#1E293B"/>
+
+<!-- ================= MAIN PROFILE CARD ================= -->
+
+<rect x="35" y="130" width="1130" height="310" rx="18"
+      fill="#071019"
+      stroke="#1E3340"
+      stroke-width="1.5"/>
+
+<!-- Left divider -->
+<rect x="355" y="160" width="1" height="230" fill="#263642"/>
+
+<!-- ================= PROFILE ================= -->
+
+<circle cx="180" cy="235" r="75"
+        fill="#0A1922"
+        stroke="url(#cyan)"
+        stroke-width="5"/>
+
+<text x="180" y="250"
+      text-anchor="middle"
+      fill="#9EF6E7"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="48"
+      font-weight="700">
+  &lt;/&gt;
+</text>
+
+<text x="180" y="340"
+      text-anchor="middle"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="27"
+      font-weight="700">
+  AbdulStack
+</text>
+
+<text x="180" y="365"
+      text-anchor="middle"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="15">
+  LeetCode Username
+</text>
+
+<rect x="125" y="378" width="110" height="32" rx="8"
+      fill="#0C1A21"
+      stroke="#17323B"/>
+
+<text x="180" y="400"
+      text-anchor="middle"
+      fill="#00D084"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="15"
+      font-weight="700">
+  #435795
+</text>
+
+<!-- ================= SOLVED RING ================= -->
+
+<circle cx="485" cy="235" r="72"
+        fill="none"
+        stroke="#172733"
+        stroke-width="12"/>
+
+<circle cx="485" cy="235" r="72"
+        fill="none"
+        stroke="url(#cyan)"
+        stroke-width="12"
+        stroke-linecap="round"
+        stroke-dasharray="330 452"
+        transform="rotate(-90 485 235)"
+        filter="url(#glow)"/>
+
+<text x="485" y="245"
+      text-anchor="middle"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="42"
+      font-weight="700">
+  329
+</text>
+
+<text x="485" y="274"
+      text-anchor="middle"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="15">
+  Total Solved
+</text>
+
+<!-- ================= DIFFICULTY ================= -->
+
+<!-- Easy -->
+<circle cx="625" cy="177" r="10" fill="#35C759"/>
+<text x="645" y="183"
+      fill="#E2E8F0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17"
+      font-weight="600">
+  Easy
+</text>
+
+<text x="1110" y="183"
+      text-anchor="end"
+      fill="#E2E8F0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16"
+      font-weight="600">
+  83 / 962
+</text>
+
+<rect x="625" y="194" width="485" height="7" rx="4" fill="#172630"/>
+<rect x="625" y="194" width="110" height="7" rx="4" fill="#35C759"/>
+
+<!-- Medium -->
+<circle cx="625" cy="235" r="10" fill="#FFD166"/>
+<text x="645" y="241"
+      fill="#E2E8F0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17"
+      font-weight="600">
+  Medium
+</text>
+
+<text x="1110" y="241"
+      text-anchor="end"
+      fill="#E2E8F0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16"
+      font-weight="600">
+  157 / 2109
+</text>
+
+<rect x="625" y="252" width="485" height="7" rx="4" fill="#172630"/>
+<rect x="625" y="252" width="135" height="7" rx="4" fill="#FFD166"/>
+
+<!-- Hard -->
+<circle cx="625" cy="293" r="10" fill="#FF5F56"/>
+<text x="645" y="299"
+      fill="#E2E8F0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17"
+      font-weight="600">
+  Hard
+</text>
+
+<text x="1110" y="299"
+      text-anchor="end"
+      fill="#E2E8F0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16"
+      font-weight="600">
+  89 / 970
+</text>
+
+<rect x="625" y="310" width="485" height="7" rx="4" fill="#172630"/>
+<rect x="625" y="310" width="115" height="7" rx="4" fill="#FF5F56"/>
+
+<!-- ================= METRICS ================= -->
+
+<rect x="390" y="345" width="720" height="65" rx="12"
+      fill="#0A151E"
+      stroke="#20313C"/>
+
+<!-- Metric 1 -->
+<text x="425" y="373"
+      fill="#A855F7"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22">
+  ◆
+</text>
+
+<text x="455" y="370"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="20"
+      font-weight="700">
+  329
+</text>
+
+<text x="455" y="392"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="13">
+  Problems Solved
+</text>
+
+<!-- Metric divider -->
+<rect x="565" y="355" width="1" height="45" fill="#24333D"/>
+
+<!-- Metric 2 -->
+<text x="595" y="373"
+      fill="#00A8FF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22">
+  ◈
+</text>
+
+<text x="625" y="370"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="20"
+      font-weight="700">
+  #435795
+</text>
+
+<text x="625" y="392"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="13">
+  Global Ranking
+</text>
+
+<rect x="755" y="355" width="1" height="45" fill="#24333D"/>
+
+<!-- Metric 3 -->
+<text x="785" y="373"
+      fill="#FFD166"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22">
+  ↗
+</text>
+
+<text x="815" y="370"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="20"
+      font-weight="700">
+  --
+</text>
+
+<text x="815" y="392"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="13">
+  Acceptance Rate
+</text>
+
+<rect x="935" y="355" width="1" height="45" fill="#24333D"/>
+
+<!-- Metric 4 -->
+<text x="965" y="373"
+      fill="#00D9C0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22">
+  ♨
+</text>
+
+<text x="995" y="370"
+      fill="#F8FAFC"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="20"
+      font-weight="700">
+  --
+</text>
+
+<text x="995" y="392"
+      fill="#94A3B8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="13">
+  Current Streak
+</text>
+
+<!-- ================= ACTIVITY + CONTEST ================= -->
+
+<rect x="35" y="465" width="1130" height="245" rx="18"
+      fill="#071019"
+      stroke="#1E3340"
+      stroke-width="1.5"/>
+
+<!-- Activity title -->
+<text x="65" y="505"
+      fill="#00C8FF"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22"
+      font-weight="700">
+  📈 Submission Activity
+</text>
+
+<!-- Vertical divider -->
+<rect x="690" y="490" width="1" height="190" fill="#263642"/>
+
+<!-- Activity heatmap labels -->
+
+<text x="100" y="540" fill="#94A3B8" font-family="Arial" font-size="13">May</text>
+<text x="185" y="540" fill="#94A3B8" font-family="Arial" font-size="13">Jun</text>
+<text x="270" y="540" fill="#94A3B8" font-family="Arial" font-size="13">Jul</text>
+<text x="355" y="540" fill="#94A3B8" font-family="Arial" font-size="13">Aug</text>
+<text x="440" y="540" fill="#94A3B8" font-family="Arial" font-size="13">Sep</text>
+<text x="525" y="540" fill="#94A3B8" font-family="Arial" font-size="13">Oct</text>
+<text x="610" y="540" fill="#94A3B8" font-family="Arial" font-size="13">Nov</text>
+
+<!-- Heatmap -->
+<g>
+  <rect x="100" y="560" width="14" height="14" rx="3" fill="#10202B"/>
+  <rect x="120" y="560" width="14" height="14" rx="3" fill="#123044"/>
+  <rect x="140" y="560" width="14" height="14" rx="3" fill="#15506B"/>
+  <rect x="160" y="560" width="14" height="14" rx="3" fill="#126D85"/>
+  <rect x="180" y="560" width="14" height="14" rx="3" fill="#168EA0"/>
+  <rect x="200" y="560" width="14" height="14" rx="3" fill="#18B5B0"/>
+  <rect x="220" y="560" width="14" height="14" rx="3" fill="#21C7A8"/>
+  <rect x="240" y="560" width="14" height="14" rx="3" fill="#36D67B"/>
+  <rect x="260" y="560" width="14" height="14" rx="3" fill="#68D95B"/>
+  <rect x="280" y="560" width="14" height="14" rx="3" fill="#9BE15D"/>
+  <rect x="300" y="560" width="14" height="14" rx="3" fill="#C4E64B"/>
+  <rect x="320" y="560" width="14" height="14" rx="3" fill="#152633"/>
+  <rect x="340" y="560" width="14" height="14" rx="3" fill="#1A3546"/>
+  <rect x="360" y="560" width="14" height="14" rx="3" fill="#12617A"/>
+  <rect x="380" y="560" width="14" height="14" rx="3" fill="#138D9D"/>
+  <rect x="400" y="560" width="14" height="14" rx="3" fill="#1EB7B1"/>
+  <rect x="420" y="560" width="14" height="14" rx="3" fill="#35D08E"/>
+  <rect x="440" y="560" width="14" height="14" rx="3" fill="#58D965"/>
+  <rect x="460" y="560" width="14" height="14" rx="3" fill="#9FE34F"/>
+  <rect x="480" y="560" width="14" height="14" rx="3" fill="#CDE846"/>
+  <rect x="500" y="560" width="14" height="14" rx="3" fill="#172832"/>
+  <rect x="520" y="560" width="14" height="14" rx="3" fill="#1A3A4C"/>
+  <rect x="540" y="560" width="14" height="14" rx="3" fill="#155E78"/>
+  <rect x="560" y="560" width="14" height="14" rx="3" fill="#168FA1"/>
+  <rect x="580" y="560" width="14" height="14" rx="3" fill="#1CBAB0"/>
+  <rect x="600" y="560" width="14" height="14" rx="3" fill="#42D47E"/>
+  <rect x="620" y="560" width="14" height="14" rx="3" fill="#8FDD52"/>
+
+  <rect x="100" y="582" width="14" height="14" rx="3" fill="#14242F"/>
+  <rect x="120" y="582" width="14" height="14" rx="3" fill="#183548"/>
+  <rect x="140" y="582" width="14" height="14" rx="3" fill="#155A73"/>
+  <rect x="160" y="582" width="14" height="14" rx="3" fill="#1594A1"/>
+  <rect x="180" y="582" width="14" height="14" rx="3" fill="#20C1AE"/>
+  <rect x="200" y="582" width="14" height="14" rx="3" fill="#34D77D"/>
+  <rect x="220" y="582" width="14" height="14" rx="3" fill="#6CDE55"/>
+  <rect x="240" y="582" width="14" height="14" rx="3" fill="#B5E44A"/>
+  <rect x="260" y="582" width="14" height="14" rx="3" fill="#17303E"/>
+  <rect x="280" y="582" width="14" height="14" rx="3" fill="#17465B"/>
+  <rect x="300" y="582" width="14" height="14" rx="3" fill="#16758A"/>
+  <rect x="320" y="582" width="14" height="14" rx="3" fill="#1B9DA7"/>
+  <rect x="340" y="582" width="14" height="14" rx="3" fill="#20C5AF"/>
+  <rect x="360" y="582" width="14" height="14" rx="3" fill="#39D98B"/>
+  <rect x="380" y="582" width="14" height="14" rx="3" fill="#62DC5E"/>
+  <rect x="400" y="582" width="14" height="14" rx="3" fill="#A9E34B"/>
+  <rect x="420" y="582" width="14" height="14" rx="3" fill="#D3E943"/>
+  <rect x="440" y="582" width="14" height="14" rx="3" fill="#18303D"/>
+  <rect x="460" y="582" width="14" height="14" rx="3" fill="#16506A"/>
+  <rect x="480" y="582" width="14" height="14" rx="3" fill="#12879A"/>
+  <rect x="500" y="582" width="14" height="14" rx="3" fill="#18B8B1"/>
+  <rect x="520" y="582" width="14" height="14" rx="3" fill="#2BD28F"/>
+  <rect x="540" y="582" width="14" height="14" rx="3" fill="#57D866"/>
+  <rect x="560" y="582" width="14" height="14" rx="3" fill="#9FE14D"/>
+  <rect x="580" y="582" width="14" height="14" rx="3" fill="#CBE745"/>
+  <rect x="600" y="582" width="14" height="14" rx="3" fill="#D8EA43"/>
+  <rect x="620" y="582" width="14" height="14" rx="3" fill="#E5ED42"/>
+
+  <rect x="100" y="604" width="14" height="14" rx="3" fill="#10202B"/>
+  <rect x="120" y="604" width="14" height="14" rx="3" fill="#142C3D"/>
+  <rect x="140" y="604" width="14" height="14" rx="3" fill="#17526B"/>
+  <rect x="160" y="604" width="14" height="14" rx="3" fill="#168C9C"/>
+  <rect x="180" y="604" width="14" height="14" rx="3" fill="#20C1AD"/>
+  <rect x="200" y="604" width="14" height="14" rx="3" fill="#2FD58D"/>
+  <rect x="220" y="604" width="14" height="14" rx="3" fill="#63DC5E"/>
+  <rect x="240" y="604" width="14" height="14" rx="3" fill="#A8E34B"/>
+  <rect x="260" y="604" width="14" height="14" rx="3" fill="#173040"/>
+  <rect x="280" y="604" width="14" height="14" rx="3" fill="#17516B"/>
+  <rect x="300" y="604" width="14" height="14" rx="3" fill="#158B9D"/>
+  <rect x="320" y="604" width="14" height="14" rx="3" fill="#1BBDB0"/>
+  <rect x="340" y="604" width="14" height="14" rx="3" fill="#32D68D"/>
+  <rect x="360" y="604" width="14" height="14" rx="3" fill="#65DD5B"/>
+  <rect x="380" y="604" width="14" height="14" rx="3" fill="#AEE44A"/>
+  <rect x="400" y="604" width="14" height="14" rx="3" fill="#D6EA42"/>
+  <rect x="420" y="604" width="14" height="14" rx="3" fill="#193342"/>
+  <rect x="440" y="604" width="14" height="14" rx="3" fill="#14516B"/>
+  <rect x="460" y="604" width="14" height="14" rx="3" fill="#148B9E"/>
+  <rect x="480" y="604" width="14" height="14" rx="3" fill="#1CBFB0"/>
+  <rect x="500" y="604" width="14" height="14" rx="3" fill="#36D58B"/>
+  <rect x="520" y="604" width="14" height="14" rx="3" fill="#61DC60"/>
+  <rect x="540" y="604" width="14" height="14" rx="3" fill="#A2E34E"/>
+  <rect x="560" y="604" width="14" height="14" rx="3" fill="#D3E743"/>
+  <rect x="580" y="604" width="14" height="14" rx="3" fill="#E5ED40"/>
+  <rect x="600" y="604" width="14" height="14" rx="3" fill="#D8EA43"/>
+  <rect x="620" y="604" width="14" height="14" rx="3" fill="#B9E44A"/>
+
+  <rect x="100" y="626" width="14" height="14" rx="3" fill="#142633"/>
+  <rect x="120" y="626" width="14" height="14" rx="3" fill="#183C50"/>
+  <rect x="140" y="626" width="14" height="14" rx="3" fill="#15677E"/>
+  <rect x="160" y="626" width="14" height="14" rx="3" fill="#159BA6"/>
+  <rect x="180" y="626" width="14" height="14" rx="3" fill="#22C8B0"/>
+  <rect x="200" y="626" width="14" height="14" rx="3" fill="#37D98A"/>
+  <rect x="220" y="626" width="14" height="14" rx="3" fill="#6BDE5B"/>
+  <rect x="240" y="626" width="14" height="14" rx="3" fill="#B5E54A"/>
+  <rect x="260" y="626" width="14" height="14" rx="3" fill="#183343"/>
+  <rect x="280" y="626" width="14" height="14" rx="3" fill="#17536C"/>
+  <rect x="300" y="626" width="14" height="14" rx="3" fill="#168C9F"/>
+  <rect x="320" y="626" width="14" height="14" rx="3" fill="#1CC2B2"/>
+  <rect x="340" y="626" width="14" height="14" rx="3" fill="#35D98D"/>
+  <rect x="360" y="626" width="14" height="14" rx="3" fill="#68DF5D"/>
+  <rect x="380" y="626" width="14" height="14" rx="3" fill="#B0E44B"/>
+  <rect x="400" y="626" width="14" height="14" rx="3" fill="#D9EA42"/>
+  <rect x="420" y="626" width="14" height="14" rx="3" fill="#17303D"/>
+  <rect x="440" y="626" width="14" height="14" rx="3" fill="#15506A"/>
+  <rect x="460" y="626" width="14" height="14" rx="3" fill="#168A9C"/>
+  <rect x="480" y="626" width="14" height="14" rx="3" fill="#1BC1AF"/>
+  <rect x="500" y="626" width="14" height="14" rx="3" fill="#31D58B"/>
+  <rect x="520" y="626" width="14" height="14" rx="3" fill="#5CDD63"/>
+  <rect x="540" y="626" width="14" height="14" rx="3" fill="#9FE34D"/>
+  <rect x="560" y="626" width="14" height="14" rx="3" fill="#CDE743"/>
+  <rect x="580" y="626" width="14" height="14" rx="3" fill="#E0EC41"/>
+  <rect x="600" y="626" width="14" height="14" rx="3" fill="#C8E645"/>
+  <rect x="620" y="626" width="14" height="14" rx="3" fill="#9DE04F"/>
+
+</g>
+
+<text x="100" y="670"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Less
+</text>
+
+<rect x="140" y="660" width="12" height="12" rx="2" fill="#10202B"/>
+<rect x="158" y="660" width="12" height="12" rx="2" fill="#15506B"/>
+<rect x="176" y="660" width="12" height="12" rx="2" fill="#18A8AA"/>
+<rect x="194" y="660" width="12" height="12" rx="2" fill="#35D08E"/>
+<rect x="212" y="660" width="12" height="12" rx="2" fill="#9BE15D"/>
+<rect x="230" y="660" width="12" height="12" rx="2" fill="#DDEB42"/>
+
+<text x="250" y="670"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  More
+</text>
+
+<!-- ================= CONTEST ================= -->
+
+<text x="725" y="505"
+      fill="#A855F7"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22"
+      font-weight="700">
+  🏆 Contest
+</text>
+
+<text x="725" y="540"
+      fill="#F8FAFC"
+      font-family="Arial"
+      font-size="17"
+      font-weight="600">
+  Contest profile
+</text>
+
+<line x1="725" y1="558" x2="1120" y2="558" stroke="#1F303B"/>
+
+<text x="725" y="590"
+      fill="#94A3B8"
+      font-family="Arial"
+      font-size="14">
+  Global Rank
+</text>
+
+<text x="1110" y="590"
+      text-anchor="end"
+      fill="#00D084"
+      font-family="Arial"
+      font-size="18"
+      font-weight="700">
+  #435795
+</text>
+
+<text x="725" y="625"
+      fill="#94A3B8"
+      font-family="Arial"
+      font-size="14">
+  Contest Rating
+</text>
+
+<text x="1110" y="625"
+      text-anchor="end"
+      fill="#FFD166"
+      font-family="Arial"
+      font-size="18"
+      font-weight="700">
+  —
+</text>
+
+<text x="725" y="660"
+      fill="#94A3B8"
+      font-family="Arial"
+      font-size="14">
+  Recent Contests
+</text>
+
+<text x="1110" y="660"
+      text-anchor="end"
+      fill="#A855F7"
+      font-family="Arial"
+      font-size="18"
+      font-weight="700">
+  View Profile →
+</text>
+
+<!-- ================= TOPICS ================= -->
+
+<rect x="35" y="735" width="1130" height="145" rx="18"
+      fill="#071019"
+      stroke="#1E3340"
+      stroke-width="1.5"/>
+
+<text x="65" y="775"
+      fill="#00D9C0"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="22"
+      font-weight="700">
+  🎯 Solved Topics
+</text>
+
+<!-- Topic cards -->
+
+<rect x="65" y="800" width="155" height="55" rx="10"
+      fill="#0B1720"
+      stroke="#19313D"/>
+
+<text x="85" y="824"
+      fill="#38BDF8"
+      font-family="Arial"
+      font-size="15"
+      font-weight="600">
+  Arrays
+</text>
+
+<text x="85" y="844"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Problem Solving
+</text>
+
+<rect x="235" y="800" width="155" height="55" rx="10"
+      fill="#0B1720"
+      stroke="#19313D"/>
+
+<text x="255" y="824"
+      fill="#4ADE80"
+      font-family="Arial"
+      font-size="15"
+      font-weight="600">
+  Strings
+</text>
+
+<text x="255" y="844"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Problem Solving
+</text>
+
+<rect x="405" y="800" width="190" height="55" rx="10"
+      fill="#0B1720"
+      stroke="#19313D"/>
+
+<text x="425" y="824"
+      fill="#FBBF24"
+      font-family="Arial"
+      font-size="15"
+      font-weight="600">
+  Dynamic Programming
+</text>
+
+<text x="425" y="844"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Problem Solving
+</text>
+
+<rect x="610" y="800" width="165" height="55" rx="10"
+      fill="#0B1720"
+      stroke="#19313D"/>
+
+<text x="630" y="824"
+      fill="#A855F7"
+      font-family="Arial"
+      font-size="15"
+      font-weight="600">
+  Hash Table
+</text>
+
+<text x="630" y="844"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Problem Solving
+</text>
+
+<rect x="790" y="800" width="145" height="55" rx="10"
+      fill="#0B1720"
+      stroke="#19313D"/>
+
+<text x="810" y="824"
+      fill="#FF5F56"
+      font-family="Arial"
+      font-size="15"
+      font-weight="600">
+  Math
+</text>
+
+<text x="810" y="844"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Problem Solving
+</text>
+
+<rect x="950" y="800" width="180" height="55" rx="10"
+      fill="#0B1720"
+      stroke="#19313D"/>
+
+<text x="970" y="824"
+      fill="#22D3EE"
+      font-family="Arial"
+      font-size="15"
+      font-weight="600">
+  Linked List
+</text>
+
+<text x="970" y="844"
+      fill="#64748B"
+      font-family="Arial"
+      font-size="12">
+  Problem Solving
+</text>
+
+</svg>
