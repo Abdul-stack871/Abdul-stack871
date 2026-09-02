@@ -147,7 +147,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="42"
       font-weight="700">
-  333
+  334
 </text>
 
 <text x="485" y="274"
@@ -176,7 +176,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="16"
       font-weight="600">
-  83 / 962
+  84 / 962
 </text>
 
 <rect x="625" y="194" width="485" height="7" rx="4" fill="#172630"/>
@@ -220,7 +220,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="16"
       font-weight="600">
-  89 / 970
+  89 / 971
 </text>
 
 <rect x="625" y="310" width="485" height="7" rx="4" fill="#172630"/>
