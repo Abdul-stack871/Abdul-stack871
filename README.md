@@ -72,39 +72,61 @@ Dr. NGP Institute of Technology, Coimbatore
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+<table>
+<tr>
+
+<td width="52%" valign="top">
+
+<h3>💻 Languages</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-### 🌐 Frontend
+<h3>🌐 Frontend</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+<h3>🗄️ Database</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Development Tools
+<h3>🧰 Development Tools</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
-### 🤖 AI-Assisted Development
+<h3>🤖 AI-Assisted Development</h3>
 
-`Claude` • `Lovable` • `Emergent`
+<p>
+  <code>Claude</code> • <code>Lovable</code> • <code>Emergent</code>
+</p>
+
+</td>
+
+<td width="48%" valign="top" align="center">
+
+<img
+  src="./assets/tech-stack-right-animation.gif"
+  width="100%"
+  height="560"
+  alt="Developer Coding Workspace"
+/>
+</td>
+
+</tr>
+</table>
 
 <details>
 <summary><b>🤖 AI & Data Science</b></summary>
