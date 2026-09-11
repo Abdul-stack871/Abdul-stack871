@@ -118,9 +118,8 @@ Dr. NGP Institute of Technology, Coimbatore
 <td width="48%" valign="top" align="center">
 
 <img
-  src="./assets/tech-stack-right-animation.gif"
+  src="./assets/tech-stack-right-animation-tall.gif"
   width="100%"
-  height="560"
   alt="Developer Coding Workspace"
 />
 </td>
